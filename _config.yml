@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://www.knightboy.cn
+url:                   https://www.amilletYan.cn
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -41,8 +41,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Pang Gu
-  email:               hpanw@foxmail.com
+  name:                YanMC
+  email:               529519864@qq.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -122,7 +122,7 @@ defaults:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:      UA-130421911-1
+#google_analytics:      UA-130421911-1
 # baidu_analytics
 disqus:                1588cf7e6529b6563ce0bf499ffb08d6
 

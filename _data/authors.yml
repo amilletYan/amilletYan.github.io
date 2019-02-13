@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              Pang Gu
-  email:             hpanw@foxmail.com
+  name:              YanMC
+  email:             529519864@qq.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -31,9 +31,9 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:            knight-boy
-    email:             hpanw@foxmail.com
-    sina-weibo:        hpanw
+    #github:            knight-boy
+    #email:             hpanw@foxmail.com
+    #sina-weibo:        hpanw
     # rss:             https://<url>/feed.xml
     # facebook:        boy knight
     # google:          <number>
@@ -58,7 +58,7 @@ author1:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    stackoverflow:     10796383/panggu
+   # stackoverflow:     10796383/panggu
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
@@ -72,16 +72,13 @@ author1:
 
 # Another author (optional)
 author2:
-  name:              Pang Gu
-  email:             hpanw@foxmail.com
+  name:              YanMC
+  email:             529519864@qq.com
   about:             |
     He had...a tact that would preserve him from flagrant error in any society.
 
   picture:           https://raw.githubusercontent.com/Knight-boy/QQone/gh-pages/public/images/Owner.jpg
-  social:
-    email:             hpanw@foxmail.com
-    sina-weibo:        hpanw
-    github:            knight-boy
+ 
     
   accent_color:      '#268bd2'
   accent_image:
